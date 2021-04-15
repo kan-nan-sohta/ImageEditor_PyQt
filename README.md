@@ -1,5 +1,5 @@
 # Image Editor Application
-距離測定アプリになる予定
+距離測定アプリにする予定
 Application of Image viewer function and drawing and file saving funcion on layer image has tranparency value.  
 
 
